@@ -1,6 +1,6 @@
 ## Social Media API
 
-#### JavaScript, Node.js, Express.js, MongoDB, Mongoose, REST API, JWT, User Authentication, Docker
+#### JavaScript, Node.js, Express.js, MongoDB, Mongoose, REST API, JWT, User Authentication, Docker, Mocha and Chai
 
 #### Overview
 
