@@ -12,7 +12,7 @@ Upload/delete a post
 Like/unlike a post
 Comment on a post
 See all posts of a user
-<pre>
+</pre>
 
 ##### API Endpoints: 
 
