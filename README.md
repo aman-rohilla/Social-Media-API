@@ -18,7 +18,7 @@ See all posts of a user
 
 <pre>
 <b>POST</b>   /api/register       - Register an account with name, email and password
-<b>POST</b>   /api/authenticate   - Login or get access token and refresh token with name and password
+<b>POST</b>   /api/authenticate   - Login or get access token and refresh token with email and password
 <b>POST</b>   /api/follow/{id}    - Follow a user by userID
 <b>POST</b>   /api/unfollow/{id}  - Unfollow a user by userID
 <b>GET</b>    /api/user           - Get user info of currently logged in user
