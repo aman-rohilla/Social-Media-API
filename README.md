@@ -14,7 +14,7 @@ Comment on a post
 See all posts of a user
 </pre>
 
-##### API Endpoints: 
+##### API Endpoints
 
 <pre>
 <b>POST</b>   /api/register       - Register an account with name, email and password
