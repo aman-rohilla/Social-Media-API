@@ -8,7 +8,7 @@ import jwt from 'jsonwebtoken'
 import bcrpyt from 'bcryptjs'
 
 
-const PORT = process.env.PORT || 80
+const PORT = process.env.PORT || 5000
 const IP   = process.env.IP || '0.0.0.0'
 
 const JWT_SECRET     = process.env.JWT_SECRET     || 'wgtjwkoovgwrjzbgtodmgnsdnjdmhdhd'

@@ -11,6 +11,10 @@ app.use(express.urlencoded({ extended: false }))
 app.use(express.json())
 app.use(cors())
 
+app.get('/', (req, res) => {
+  return res.status(200).send('Social Media API By Aman-Rohilla@rohilla.co.in')
+})
+
 // register a user with name, email and password
 app.post('/api/register', async (req, res) => {
   
